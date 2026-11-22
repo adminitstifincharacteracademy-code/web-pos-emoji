@@ -1,0 +1,6 @@
+{
+  "name": "Emoji Cafe Ciumbuleuit",
+  "description": "An interactive digital menu, custom Cuanki bowl builder, and mountain vibe player for Emoji Cafe in Ciumbuleuit, Bandung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
